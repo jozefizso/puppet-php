@@ -1,6 +1,6 @@
 # PHP Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-php.png)](https://travis-ci.org/boxen/puppet-php)
+[![Build Status](https://travis-ci.org/jozefizso/puppet-php.png?branch=feature_php)](https://travis-ci.org/jozefizso/puppet-php)
 
 Requires the following boxen modules:
 
